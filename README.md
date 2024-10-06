@@ -1,1 +1,1 @@
-# TripAdvisor-clone
+# Tripadvisor-clone
